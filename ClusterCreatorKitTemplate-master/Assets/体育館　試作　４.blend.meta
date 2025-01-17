@@ -1,6 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 408bb59f75368f94fbbcfcbbc982c0a2
+guid: dde52ef78ca44b04c9caa29db4e5fa38
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -104,6 +103,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-=======
-guid: 1dddfbf3f58410b4f82d197b1f332421
->>>>>>> fb99779d89a5229c6fdb3d97a2a0655f4c20deca
